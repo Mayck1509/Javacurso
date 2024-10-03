@@ -12,5 +12,9 @@
 	<classpathentry kind="src" path="TaxiCalculator"/>
 	<classpathentry kind="src" path="Exercicios"/>
 	<classpathentry kind="src" path="Strings"/>
+	<classpathentry kind="src" path="Clases"/>
+	<classpathentry kind="src" path="Arrayfrutas.java"/>
+	<classpathentry kind="src" path="Exercicios2"/>
+	<classpathentry kind="src" path="Heranca"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
