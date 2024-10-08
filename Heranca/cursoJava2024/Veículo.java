@@ -1,10 +1,26 @@
 package cursoJava2024;
 
-final class Veículo {
+public class Veículo {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+    protected String marca;
+    protected String modelo;
+    protected int ano;
+    
+    //Método Construtor do Veículo:
+    public Veículo(String marca, String modelo, int ano) {
+    	this.marca = marca;
+    	this.modelo = modelo;
+    	this.ano = ano;
+    	
+    }
+    
+    public void exibirDetalhes() {
+    	System.out.println("Marca: " + marca);
+    	System.out.println("Modelo: " + modelo);
+    	System.out.println("Ano: " + ano);
+    
+    
+    
 	}
 
 }

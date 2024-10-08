@@ -12,7 +12,7 @@ public class ClasseComMetodos {
 		return numero % 2 == 0;
 	}
 	
-	//método 03: inverter uma string
+	//método 03: inverter uma String
 	public static String
 
 	public static void main(String[] args) {

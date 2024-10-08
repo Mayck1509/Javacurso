@@ -16,5 +16,6 @@
 	<classpathentry kind="src" path="Arrayfrutas.java"/>
 	<classpathentry kind="src" path="Exercicios2"/>
 	<classpathentry kind="src" path="Heranca"/>
+	<classpathentry kind="src" path="CRUD"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
